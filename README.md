@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shristi 👋
 
-<!--
-**shristibajpai/shristibajpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student Developer  
+💻 Interested in AI, AIML, Web Development & Open Source  
+🌱 Currently learning GitHub, Open Source and GenAI  
+🚀 Building real-world student projects
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- JavaScript
+- Python
+- HTML/CSS
+- c++
+- Git & GitHub
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- AI Student Assistant
+- Career Referee
+- Habit Tracker
+- Expense Tracker
+- pharma Calc pro
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shristi-bajpai-787037386/
+- GitHub: https://github.com/shristibajpai
