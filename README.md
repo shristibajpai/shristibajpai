@@ -9,7 +9,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shristibajpai&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/github/followers/shristibajpai?label=FOLLOWERS&style=for-the-badge&labelColor=0d0221&color=C77DFF" height="28"/>
 
 </div>
 
@@ -52,7 +51,17 @@ currently_orbiting:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-02-7B2FF7?style=flat-square"/> &nbsp; Tech Arsenal
+## <img src="https://img.shields.io/badge/-02-7B2FF7?style=flat-square"/> &nbsp; When I'm Building
+
+<div align="center">
+
+<img src="./coding-engineer.svg" width="100%" alt="Animated software engineer coding illustration"/>
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/-03-7B2FF7?style=flat-square"/> &nbsp; Tech Arsenal
 
 <div align="center">
 
@@ -85,7 +94,7 @@ currently_orbiting:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-03-7B2FF7?style=flat-square"/> &nbsp; Signature Projects
+## <img src="https://img.shields.io/badge/-04-7B2FF7?style=flat-square"/> &nbsp; Signature Projects
 
 <table width="100%">
 <tr>
@@ -164,7 +173,7 @@ currently_orbiting:
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-04-7B2FF7?style=flat-square"/> &nbsp; Current Focus
+## <img src="https://img.shields.io/badge/-05-7B2FF7?style=flat-square"/> &nbsp; Current Focus
 
 <div align="center">
 
@@ -180,30 +189,3 @@ Research              ████████████░░░░░░ 65%
 </div>
 
 <div align="center">
-
-```
-    AI-Powered Tools  →  Real-World Problems  →  Prototypes  →  Open Source  →  Research
-```
-
-</div>
-
-<br/>
-
-## <img src="https://img.shields.io/badge/-05-7B2FF7?style=flat-square"/> &nbsp; Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shristi-bajpai-787037386/">
-<img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=C77DFF"/>
-</a>
-<a href="https://github.com/shristibajpai">
-<img src="https://img.shields.io/badge/GITHUB-0d0221?style=for-the-badge&logo=github&logoColor=C77DFF"/>
-</a>
-
-<br/><br/>
-
-<i>"Build. Learn. Break. Fix. Repeat."</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
